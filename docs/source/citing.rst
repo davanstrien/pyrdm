@@ -4,9 +4,9 @@ Citing
 Journal articles
 ----------------
 
-- **Jacobs, C.T., Avdis, A. (Submitted)**. *Connecting web-based mapping services with scientific data repositories: collaborative curation and retrieval of simulation data via a geospatial interface*. International Journal of Digital Curation. Pre-print: `???????? <?????????>`_
+- **Jacobs, C.T. and Avdis, A. (Submitted)**. *Connecting web-based mapping services with scientific data repositories: collaborative curation and retrieval of simulation data via a geospatial interface*. International Journal of Digital Curation. Pre-print: `http://arxiv.org/abs/1606.05741 <http://arxiv.org/abs/1606.05741>`_
 
-- **Jacobs, C.T., Avdis, A. (2016)**. *Git-RDM: A research data management plugin for the Git version control system*. Journal of Open Source Software, 29, DOI: `10.21105/joss.00029 <http://dx.doi.org/10.21105/joss.00029>`_
+- **Jacobs, C.T. and Avdis, A. (2016)**. *Git-RDM: A research data management plugin for the Git version control system*. Journal of Open Source Software, 29, DOI: `10.21105/joss.00029 <http://dx.doi.org/10.21105/joss.00029>`_
 
 - **Jacobs, C.T., Avdis, A., Gorman, G.J. and Piggott, M.D. (2014)**. *PyRDM: A Python-based library for automating the management and online publication of scientific software and data*. Journal of Open Research Software, 2(1):e28, DOI: `10.5334/jors.bj <http://dx.doi.org/10.5334/jors.bj>`_
 
